@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@atproto/api": "^0.9.6",
+    "config": "^3.3.10",
+    "moment-timezone": "^0.5.44",
+    "twitter-api-v2": "^1.16.0"
+  },
+  "type": "module"
+}
