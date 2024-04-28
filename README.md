@@ -35,7 +35,7 @@ Blueskyアカウントへのアクセスを伴わせずに、BOTの動作だけ�
 現在時刻からある程度未来までの投稿予定内容がコンソールへ吐き出されます。  
 
 ```
-node test.js
+node test_BSKY.js
 ```
 
 ## Reference
